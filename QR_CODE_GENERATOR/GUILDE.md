@@ -27,4 +27,4 @@ To run this application, ensure you have the Microsoft Visual C++ Redistributabl
 This application is provided under the MIT License.
 
 ## Contact
-For any issues or questions, please contact [your email address or contact info].
+For any issues or questions, please contact supunbherath@gmail.com.
